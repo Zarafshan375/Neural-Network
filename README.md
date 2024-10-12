@@ -1,1 +1,3 @@
-This repository contains the implementation of a neural network model designed for application, e.g., image classification, text generation and sentiment analysis etc.
+"This repository contains the implementation of a neural network model designed for a variety of applications such as image classification, text generation, sentiment analysis, and more."
+
+
